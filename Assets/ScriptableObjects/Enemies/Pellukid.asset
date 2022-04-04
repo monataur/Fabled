@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3cb25d1ad3ebd45991ae85f9c71c57, type: 3}
+  m_Name: Pellukid
+  m_EditorClassIdentifier: 
+  name: Pellukid
+  description: Denizens of Glass Caverns, mostly wild.
+  description2: '"GRRRowwwFfHISSSSS" - Pellukid'
+  sprite: {fileID: 5196525853379004239, guid: a59b9c0871e8ac54ab7f0e9e424a85aa, type: 3}
+  animator: {fileID: 9100000, guid: 09461f641a67ec04f9514ce80fc4419f, type: 2}
+  element: 3
+  resist: 8
+  weak: 6
+  glint: {x: 0, y: 0, z: 0}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5782a05b4a1b325458cb0b7957f95998, type: 3}
+  m_Name: Heidar
+  m_EditorClassIdentifier: 
+  name: Heidar
+  description: Vigilante protector of Bleachrock
+  title: Dune Defender
+  element: 3
+  resist: 0
+  weak: 0
+  equip: 3
+  sprite: {fileID: 8025849865438951084, guid: 996d72a4c028f684ebf828916f743cdd, type: 3}
+  icon: {fileID: 21300000, guid: fbf9bb9800079f54cb9b688838e1edb9, type: 3}
+  glint: {x: 0, y: 0, z: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  menu: {r: 0, g: 0, b: 0, a: 0}
+  voice: {fileID: 0}
+  animator: {fileID: 9100000, guid: d80af8f1671da5748b00e1c613fb2cc9, type: 2}
+  moveset: 0000000000000000000000000000000000000000000000000000000000000000
+  movepool: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

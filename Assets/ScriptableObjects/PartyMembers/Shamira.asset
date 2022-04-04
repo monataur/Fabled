@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5782a05b4a1b325458cb0b7957f95998, type: 3}
+  m_Name: Shamira
+  m_EditorClassIdentifier: 
+  name: Shamira
+  description: Sworn protector of Bleachrock.
+  title: Dune Defender
+  element: 3
+  resist: 7
+  weak: 2
+  equip: 3
+  sprite: {fileID: 0}
+  icon: {fileID: 0}
+  glint: {x: 0, y: 0, z: 0}
+  color: {r: 1, g: 0, b: 0, a: 0}
+  menu: {r: 0.627451, g: 0.63529414, b: 0.8509804, a: 0}
+  voice: {fileID: 0}
+  animator: {fileID: 0}
+  moveset: 0000000000000000000000000000000000000000000000000000000000000000
+  movepool: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

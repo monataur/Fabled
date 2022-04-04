@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5782a05b4a1b325458cb0b7957f95998, type: 3}
+  m_Name: Blank
+  m_EditorClassIdentifier: 
+  name: Blank
+  description: You aren't supposed to see this.
+  title: Anonymous Anomaly
+  element: 8
+  equip: 0
+  sprite: {fileID: 8025849865438951084, guid: 996d72a4c028f684ebf828916f743cdd, type: 3}
+  icon: {fileID: 21300000, guid: fbf9bb9800079f54cb9b688838e1edb9, type: 3}
+  glint: {x: 0.045, y: 0.16, z: 0}
+  color: {r: 1, g: 1, b: 1, a: 0}
+  menu: {r: 0, g: 0, b: 0, a: 0}
+  voice: {fileID: 0}
+  animator: {fileID: 9100000, guid: d80af8f1671da5748b00e1c613fb2cc9, type: 2}
+  moveset: 0000000000000000000000000000000000000000000000000000000000000000
+  movepool: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

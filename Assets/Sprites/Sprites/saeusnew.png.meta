@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 5870c4440164fae42a151fdd0c2f8d09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6452077276676634494
+    second: saeusnew 0
+  - first:
+      213: 4008047739781458664
+    second: saeusnew 1
+  - first:
+      213: 2605804547254181664
+    second: saeusnew 2
+  - first:
+      213: -2361562632639580728
+    second: saeusnew 3
+  - first:
+      213: 2037322193874122596
+    second: saeusnew 4
+  - first:
+      213: 9108149196877892235
+    second: saeusnew 5
+  - first:
+      213: -3174788953459503463
+    second: saeusnew 6
+  - first:
+      213: -7880325049831578557
+    second: saeusnew 7
+  - first:
+      213: 2272478267051854228
+    second: saeusnew 8
+  - first:
+      213: -3284376843376469377
+    second: saeusnew 9
+  - first:
+      213: -8798434821547144401
+    second: saeusnew 10
+  - first:
+      213: -1398399185324512921
+    second: saeusnew 11
+  - first:
+      213: 3751466988941458994
+    second: saeusnew 12
+  - first:
+      213: -8553098162643812759
+    second: saeusnew 13
+  - first:
+      213: -1685833354212799760
+    second: saeusnew 14
+  - first:
+      213: -6588129237393647007
+    second: saeusnew 15
+  - first:
+      213: -8094959152446245957
+    second: saeusnew 16
+  - first:
+      213: -459001015175857935
+    second: saeusnew 17
+  - first:
+      213: -325168519748976297
+    second: saeusnew 18
+  - first:
+      213: 1313275070438396348
+    second: saeusnew 19
+  - first:
+      213: -2449763791532982039
+    second: saeusnew 20
+  - first:
+      213: 2934870998880780222
+    second: saeusnew 21
+  - first:
+      213: -4457293547360134244
+    second: saeusnew 22
+  - first:
+      213: 2475497001221872682
+    second: saeusnew 23
+  - first:
+      213: 7708966136751213791
+    second: saeusnew 24
+  - first:
+      213: -4192928022616156854
+    second: saeusnew 25
+  - first:
+      213: -3854958016971654325
+    second: saeusnew 26
+  - first:
+      213: -2955458319888470604
+    second: saeusnew 27
+  - first:
+      213: -7376039095950888048
+    second: saeusnew 28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 104
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saeusnew 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288c154c6ed9576a0800000000000000
+      internalID: -6452077276676634494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea2b7c0f227f9730800000000000000
+      internalID: 4008047739781458664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fde29fd6da92420800000000000000
+      internalID: 2605804547254181664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c57ea63c4b0a3fd0800000000000000
+      internalID: -2361562632639580728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f2eabdb5064c10800000000000000
+      internalID: 2037322193874122596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a8a210075a66e70800000000000000
+      internalID: 9108149196877892235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e46308442e0f3d0800000000000000
+      internalID: -3174788953459503463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 48
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3442d227e1673a290800000000000000
+      internalID: -7880325049831578557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499cb6b91f6798f10800000000000000
+      internalID: 2272478267051854228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ad60e89ac8b62d0800000000000000
+      internalID: -3284376843376469377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b414a552ea5e580800000000000000
+      internalID: -8798434821547144401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76969889953e79ce0800000000000000
+      internalID: -1398399185324512921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eb57ea953ef0430800000000000000
+      internalID: 3751466988941458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eb19e898a4d4980800000000000000
+      internalID: -8553098162643812759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa04ab0f77ba98e0800000000000000
+      internalID: -1685833354212799760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a59ce2d534294a0800000000000000
+      internalID: -6588129237393647007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f42f2a8de8af80800000000000000
+      internalID: -8094959152446245957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f836e2320d41a9f0800000000000000
+      internalID: -459001015175857935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751093044f4cc7bf0800000000000000
+      internalID: -325168519748976297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb15bd1f7b0b93210800000000000000
+      internalID: 1313275070438396348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0001e9fc0b00ed0800000000000000
+      internalID: -2449763791532982039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf72e5bf91cab820800000000000000
+      internalID: 2934870998880780222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b55f962238422c0800000000000000
+      internalID: -4457293547360134244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cdf58286bba5220800000000000000
+      internalID: 2475497001221872682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc42968bdfbbfa60800000000000000
+      internalID: 7708966136751213791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45de23bd2abfc5c0800000000000000
+      internalID: -4192928022616156854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3c56ab10708ac0800000000000000
+      internalID: -3854958016971654325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd2396115a1cf6d0800000000000000
+      internalID: -2955458319888470604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saeusnew 28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093347ca58b03a990800000000000000
+      internalID: -7376039095950888048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

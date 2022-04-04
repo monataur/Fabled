@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3cb25d1ad3ebd45991ae85f9c71c57, type: 3}
+  m_Name: Dunecleaver
+  m_EditorClassIdentifier: 
+  name: Dunecleaver
+  description: From the Grunt-for-Hire Association.
+  description2: '"Whatever puts food on the table." - Dunecleaver'
+  sprite: {fileID: -8272294064686444945, guid: 3f38c3c164882ee4c8c366cecfc219b4, type: 3}
+  animator: {fileID: 9100000, guid: dcb9f8d6db8cf0441accb0a8d5d7d63d, type: 2}
+  element: 3
+  resist: 3
+  weak: 1
+  glint: {x: -0.0648579, y: 0.1398925, z: 0}

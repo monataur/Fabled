@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 0100a35ed0a86fe439e49f51c1f6caf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1405810666463336825
+    second: marinbattle 0
+  - first:
+      213: 2751525977013167842
+    second: marinbattle 1
+  - first:
+      213: 2227710441004330629
+    second: marinbattle 2
+  - first:
+      213: -8667356371343182520
+    second: marinbattle 3
+  - first:
+      213: 7851807262684948967
+    second: marinbattle 4
+  - first:
+      213: 3295662564609826016
+    second: marinbattle 5
+  - first:
+      213: -2560755427828411066
+    second: marinbattle 6
+  - first:
+      213: 7190923278849011880
+    second: marinbattle 7
+  - first:
+      213: -1738675020758877067
+    second: marinbattle 8
+  - first:
+      213: -2636493044481840846
+    second: marinbattle 9
+  - first:
+      213: -907245899274464108
+    second: marinbattle 10
+  - first:
+      213: 835823179282972882
+    second: marinbattle 11
+  - first:
+      213: -6705515939673068203
+    second: marinbattle 12
+  - first:
+      213: 5928351011263738873
+    second: marinbattle 13
+  - first:
+      213: -6648768720539932292
+    second: marinbattle 14
+  - first:
+      213: 6721997267581691720
+    second: marinbattle 15
+  - first:
+      213: -2695697946633612180
+    second: marinbattle 16
+  - first:
+      213: -2598053656266168018
+    second: marinbattle 17
+  - first:
+      213: -978331596844218800
+    second: marinbattle 18
+  - first:
+      213: -3861085714016169827
+    second: marinbattle 19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 136
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marinbattle 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866ffba5ae8d7ce0800000000000000
+      internalID: -1405810666463336825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e621224c426f2620800000000000000
+      internalID: 2751525977013167842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eed7ad7da6aee10800000000000000
+      internalID: 2227710441004330629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845fe584d4d57b780800000000000000
+      internalID: -8667356371343182520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92b21da1937fc60800000000000000
+      internalID: 7851807262684948967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec1f1f24ab8cbd20800000000000000
+      internalID: 3295662564609826016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64552af718e567cd0800000000000000
+      internalID: -2560755427828411066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f1ea7f9a4bc360800000000000000
+      internalID: 7190923278849011880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c72dfc74cfed7e0800000000000000
+      internalID: -1738675020758877067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392fd67b8b496bd0800000000000000
+      internalID: -2636493044481840846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494d0d159a0d863f0800000000000000
+      internalID: -907245899274464108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d00330d0c0799b00800000000000000
+      internalID: 835823179282972882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d211cb7c831f2a0800000000000000
+      internalID: -6705515939673068203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3f332c5dbb54250800000000000000
+      internalID: 5928351011263738873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792d7a4314dab3a0800000000000000
+      internalID: -6648768720539932292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476a5376e4594d50800000000000000
+      internalID: 6721997267581691720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64572dfff4f69ad0800000000000000
+      internalID: -2695697946633612180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a9d6f6fbd1fbd0800000000000000
+      internalID: -2598053656266168018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564f8998944c62f0800000000000000
+      internalID: -978331596844218800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marinbattle 19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901bb0000baa6ac0800000000000000
+      internalID: -3861085714016169827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

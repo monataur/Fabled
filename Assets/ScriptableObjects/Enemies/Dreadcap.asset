@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3cb25d1ad3ebd45991ae85f9c71c57, type: 3}
+  m_Name: Dreadcap
+  m_EditorClassIdentifier: 
+  name: Dreadcap
+  description: It wants to eat your friend.
+  description2: '"GRhaghAHth" - Dreadcap'
+  sprite: {fileID: -4257077110045466736, guid: 82369c51eb2ce96489ee169edcccff0a, type: 3}
+  animator: {fileID: 9100000, guid: c86c7ec885234a44592b62251cb2c8bf, type: 2}
+  element: 7
+  resist: 5
+  weak: 8
+  glint: {x: -0.035, y: 0.12, z: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3cb25d1ad3ebd45991ae85f9c71c57, type: 3}
+  m_Name: Darklyre
+  m_EditorClassIdentifier: 
+  name: Darklyre
+  description: 'Sticks and stones ARE her bones. Tree spirit. '
+  description2: '"..." - Darklyre'
+  sprite: {fileID: -6489314465255221609, guid: ab21c133a5b2e6c46b71824cb01e7cc3, type: 3}
+  animator: {fileID: 9100000, guid: 0bb011032cdcca548a2071e9633c8ce3, type: 2}
+  element: 5
+  resist: 7
+  weak: 8
+  glint: {x: 0, y: 0, z: 0}

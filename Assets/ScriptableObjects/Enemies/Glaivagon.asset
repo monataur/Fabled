@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3cb25d1ad3ebd45991ae85f9c71c57, type: 3}
+  m_Name: Glaivagon
+  m_EditorClassIdentifier: 
+  name: Glaivagon
+  description: Glaive wielder of Polearmy. The purple one.
+  description2: '"(squeak)" - Glaivagon'
+  sprite: {fileID: 5290538051401781214, guid: a88534ad0a766aa4fa8ad95a0e721daf, type: 3}
+  animator: {fileID: 9100000, guid: 6f5d170e56408984e893982f7285290e, type: 2}
+  element: 7
+  resist: 7
+  weak: 8
+  glint: {x: 0, y: 0, z: 0}

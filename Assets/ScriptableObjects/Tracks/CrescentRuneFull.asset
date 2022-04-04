@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8adb3cd88fa9d4a9ed1f475aad678a, type: 3}
+  m_Name: CrescentRuneFull
+  m_EditorClassIdentifier: 
+  name: Battle (Full)
+  start: {fileID: 8300000, guid: aaa2e0b9328679e47a8d7c3ff2ceea23, type: 3}
+  loop: {fileID: 8300000, guid: 82cc254b5c4af1944a84fc36232e899e, type: 3}
+  usesStart: 1
